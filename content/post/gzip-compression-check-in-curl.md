@@ -1,6 +1,7 @@
 ---
 title: "GZip Compression Check in curl"
 date: 2019-09-21T00:20:25+08:00
+tags: [curl, headers, gzip, gzip-compression, compression]
 draft: false
 ---
 
