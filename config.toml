@@ -1,9 +1,0 @@
-baseURL = "https://ismael.casimpan.com/quicktasks-curl"
-languageCode = "en-us"
-title = "Quick Tasks: Curl"
-theme = "basics"
-
-[params]
-    author = "Ismael Casimpan"
-    github = "icasimpan"
-    #gitlab = "username2"
