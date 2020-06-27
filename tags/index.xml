@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Curl | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-curl/tags/</link>
+    <description>Recent content in Tags on Curl | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-curl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>authentication</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/authentication/</link>
+      <pubDate>Tue, 12 May 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>credentials</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/credentials/</link>
+      <pubDate>Tue, 12 May 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/credentials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>credentials-file</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/credentials-file/</link>
+      <pubDate>Tue, 12 May 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/credentials-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curl</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/curl/</link>
+      <pubDate>Tue, 12 May 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/curl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compression</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/compression/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dns</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/dns/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gzip</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/gzip/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/gzip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gzip-compression</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/gzip-compression/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/gzip-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardcoded</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/hardcoded/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/hardcoded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardcoded-dns</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/hardcoded-dns/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/hardcoded-dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>headers</title>
+      <link>https://ismael.casimpan.com/quicktasks-curl/tags/headers/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-curl/tags/headers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
